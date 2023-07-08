@@ -26,7 +26,7 @@ Before running the project, make sure you have the following installed:
    
 2. Navigate to the project directory:
    ```
-   cd buy-me-a-coffee
+   cd BuyMeACoffee-dapp-for-study-use
    ```
    
 3. Install the dependencies:
