@@ -1,4 +1,4 @@
-Sure! Here's a sample README file for your "Buy Me a Coffee" DeFi dapp project:
+## Following tutorial link: https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp
 
 # Buy Me a Coffee DeFi dapp
 
