@@ -21,7 +21,7 @@ Before running the project, make sure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/buy-me-a-coffee.git
+   git clone https://github.com/your-username/BuyMeACoffee-dapp-for-study-use.git
    ```
    
 2. Navigate to the project directory:
