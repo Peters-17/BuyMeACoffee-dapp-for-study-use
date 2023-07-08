@@ -19,17 +19,27 @@ Before running the project, make sure you have the following installed:
 
 ## Installation
 
-1. Clone the repository:
+Set up by creating a `.env` file, and filling out these variables:
+
+```
+GOERLI_URL="your Alchemy RPC URL"
+GOERLI_API_KEY="your Alchemy API key"
+PRIVATE_KEY="your wallet private key"
+```
+
+You can get an Alchemy RPC URL for free [here](https://alchemy.com/?a=roadtoweb3weektwo).
+
+Clone the repository:
    ```
    git clone https://github.com/your-username/BuyMeACoffee-dapp-for-study-use.git
    ```
    
-2. Navigate to the project directory:
+Navigate to the project directory:
    ```
    cd BuyMeACoffee-dapp-for-study-use
    ```
    
-3. Install the dependencies:
+Install the dependencies:
    ```
    npm install
    ```
